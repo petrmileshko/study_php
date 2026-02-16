@@ -10,4 +10,4 @@
 ---
 ## Примеры и задачи
 
-* [1]()
+* [1](https://github.com/petrmileshko/study_php/tree/main/php_1)
