@@ -23,10 +23,10 @@
     - Имя "php" не распознано как имя командлета - проверить путь в переменной среды PATH
     - is not compatible with this PHP build - установить актуальную версию VC++ Runtime
 ---
-VC++ Runtime:
+VC++ Runtime (Найти в интернете с любого оффициального источника) поиск:
 
-- [64-разрядная](https://aka.ms/vc14/vc_redist.x64.exe)
-- [32-разрядная](https://aka.ms/vc14/vc_redist.x86.exe)
+- Visual C++ 2015-2022 Redistributable x64
+- Visual C++ 2015-2022 Redistributable x32
 
 ## Примеры и задачи
 
