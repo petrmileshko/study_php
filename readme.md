@@ -32,4 +32,4 @@ VC++ Runtime (Найти в интернете с любого оффициал�
 
 ## Примеры и задачи
 
-- [1](https://github.com/petrmileshko/study_php/tree/main/php_1)
+- [p1](https://github.com/petrmileshko/study_php/tree/main/php_1)
