@@ -13,6 +13,21 @@
  5. В переменную среды PATH добавить путь С:\php
 
 ---
+
+Проверка работы PHP через консоль в редакторе VS Code:
+
+  php -v
+
+В терминале VS Code появится версия PHP или ошибка:
+
+    - Имя "php" не распознано как имя командлета - проверить путь в переменной среды PATH
+    - is not compatible with this PHP build - установить актуальную версию VC++ Runtime
+---
+VC++ Runtime:
+
+- [64-разрядная](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+- [32-разрядная](https://aka.ms/vs/17/release/vc_redist.x86.exe)
+
 ## Примеры и задачи
 
-* [1](https://github.com/petrmileshko/study_php/tree/main/php_1)
+- [1](https://github.com/petrmileshko/study_php/tree/main/php_1)
