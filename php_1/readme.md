@@ -13,4 +13,4 @@
 
 В консоле появится строка:
 
-  Hello world!
+    - Hello world!
