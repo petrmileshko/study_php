@@ -21,12 +21,14 @@
 В терминале VS Code появится версия PHP или ошибка:
 
     - Имя "php" не распознано как имя командлета - проверить путь в переменной среды PATH
-    - is not compatible with this PHP build - установить актуальную версию VC++ Runtime
----
+    - is not compatible with this PHP build -  установленная версия VC++ Runtime не соответсвует версии PHP
+
 VC++ Runtime (Найти в интернете с любого оффициального источника) поиск:
 
 - Visual C++ 2015-2022 Redistributable x64
 - Visual C++ 2015-2022 Redistributable x32
+
+Установить актуальную версию VC++ Runtime.
 
 ## Примеры и задачи
 
