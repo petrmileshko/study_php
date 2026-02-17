@@ -25,8 +25,8 @@
 ---
 VC++ Runtime:
 
-- [64-разрядная](https://aka.ms/vs/17/release/vc_redist.x64.exe)
-- [32-разрядная](https://aka.ms/vs/17/release/vc_redist.x86.exe)
+- [64-разрядная](https://aka.ms/vc14/vc_redist.x64.exe)
+- [32-разрядная](https://aka.ms/vc14/vc_redist.x86.exe)
 
 ## Примеры и задачи
 
