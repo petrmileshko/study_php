@@ -7,9 +7,9 @@
 ---
 Проверка программы:
 
-    - php ./php_1/index.php
-    - или
     - php index.php
+    - или
+    - php ./php_1/index.php
 
 В консоле появится строка:
 
