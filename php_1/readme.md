@@ -7,10 +7,10 @@
 ---
 Проверка программы:
 
-    - php index.php
-    - или
-    - php ./php_1/index.php
+    php index.php
+    или
+    php ./php_1/index.php
 
 В консоле появится строка:
 
-    - Hello world!
+    Hello world!
