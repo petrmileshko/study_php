@@ -16,9 +16,7 @@
 
 Проверка работы PHP через консоль в редакторе VS Code:
 
--
-- php -v
--
+    - php -v
 
 В терминале VS Code появится версия PHP или ошибка:
 
@@ -27,8 +25,8 @@
 
 VC++ Runtime (Найти в интернете с любого оффициального источника) поиск:
 
-- Visual C++ 2015-2022 Redistributable x64
-- Visual C++ 2015-2022 Redistributable x32
+    - Visual C++ 2015-2022 Redistributable x64
+    - Visual C++ 2015-2022 Redistributable x32
 
 Установить актуальную версию VC++ Runtime.
 
