@@ -35,4 +35,4 @@
 
 ## Примеры и задачи
 
-- [p1](https://github.com/petrmileshko/study_php/tree/main/php_1)
+- [p1](https://github.com/petrmileshko/study_php/tree/main/php_1) , [p2](https://github.com/petrmileshko/study_php/tree/main/php_2)
