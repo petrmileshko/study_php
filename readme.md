@@ -18,15 +18,15 @@
 
     php -v
 
-В терминале VS Code появится сообщение о версия PHP или ошибка:
+В терминале VS Code появится сообщение о версии PHP или ошибка:
 
     PHP 8.5.1 (cli) (built: Dec 17 2025 10:54:30) (NTS Visual C++ 2022 x64)
     или
     Имя "php" не распознано как имя командлета - проверить путь в переменной среды PATH
     или
-    is not compatible with this PHP build -  установленная версия VC++ Runtime не соответсвует версии PHP
+    is not compatible with this PHP build -  установленная версия Visual C++ не соответствует версии сборки PHP
 
-VC++ Runtime (Найти в интернете с любого оффициального источника) поиск:
+Найти нужную версию Visual C++ в интернете с любого оффициального источника, поисковый запрос:
 
     - Visual C++ 2015-2022 Redistributable x64
     - Visual C++ 2015-2022 Redistributable x32
