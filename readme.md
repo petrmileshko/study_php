@@ -2,7 +2,7 @@
 
 ## Настройка для Windows
 
- 1. Установить редактор VS Code, расширения PHP Intelephense, PHP Debug.
+ 1. Установить редактор VS Code, расширения [php cs fixer](https://marketplace.visualstudio.com/items?itemName=junstyle.php-cs-fixer), [Beautify Format](https://marketplace.visualstudio.com/items?itemName=DataBeautify.beautify-format), [EOL Guardian](https://marketplace.visualstudio.com/items?itemName=devflorez.eol-guardian).
  2. Скачать PHP для ОС Windows c официального сайта:
 
     - для PHP 8.5.1  [64-разрядной](https://windows.php.net/downloads/releases/php-8.5.1-nts-Win32-vs17-x64.zip)
@@ -11,6 +11,7 @@
  3. Создать папку на диске С:\php
  4. Распаковать содержимое архива в С:\php
  5. В переменную среды PATH добавить путь С:\php
+ 6. Скачать [php-cs-fixer](https://cs.symfony.com/download/php-cs-fixer-v3.phar) в папку С:\php
 
 ---
 
