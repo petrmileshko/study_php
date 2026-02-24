@@ -36,4 +36,4 @@
 
 ## Примеры и задачи
 
-- [php_1](https://github.com/petrmileshko/study_php/tree/main/php_1) , [php_2](https://github.com/petrmileshko/study_php/tree/main/php_2), [php_3](https://github.com/petrmileshko/study_php/tree/main/php_3)
+- [php_1](https://github.com/petrmileshko/study_php/tree/main/php_1) , [php_2](https://github.com/petrmileshko/study_php/tree/main/php_2), [php_3](https://github.com/petrmileshko/study_php/tree/main/php_3).

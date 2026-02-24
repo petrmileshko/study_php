@@ -5,6 +5,8 @@
 *.ai
 *.log
 *.exe
+*.obj
+*.com
 node_modules
 idea
 build
